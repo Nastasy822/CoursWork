@@ -1,0 +1,9 @@
+numpy
+opencv-python
+PyYAML
+tqdm
+Cython
+ipython
+tensorflow-gpu==2.1.0
+dlib
+h5py==2.10.0 
